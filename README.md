@@ -1,4 +1,4 @@
----<!-- HEADER -->
+<!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Pratham Saxena</h1>
 <h3 align="center">🚀 Full Stack Developer | AI/ML Developer</h3>
