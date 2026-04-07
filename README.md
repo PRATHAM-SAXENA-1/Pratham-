@@ -1,4 +1,3 @@
-A personal introduction page showcasing my profile, skills, and projects.
 ---<!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Pratham Saxena</h1>
